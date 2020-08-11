@@ -1,0 +1,5 @@
+Credentials cache: API:676A066A-DFC5-41F5-A1F7-66D611ADC6D3
+        Principal: ssaito@42TOKYO.JP
+
+  Issued                Expires               Principal
+Aug 10 15:17:04 2020  Aug 11 01:17:04 2020  krbtgt/42TOKYO.JP@42TOKYO.JP
